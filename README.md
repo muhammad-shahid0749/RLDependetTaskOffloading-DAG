@@ -66,11 +66,3 @@ python evaluate_heuristic_algo.py --scenario Trans --goal EE
 ### Related publication
 If you are interested in this work, please cite the paper
 
-```bash
-@article{Wang2021Depedent,
-  author={Wang, Jin and Hu, Jia and Min, Geyong and Zhan, Wenhan and Zomaya, Albert and Georgalas, Nektarios},
-  journal={IEEE Transactions on Computers}, 
-  title={Dependent Task Offloading for Edge Computing based on Deep Reinforcement Learning}, 
-  year={2021},
-  doi={10.1109/TC.2021.3131040}}
-```
