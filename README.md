@@ -63,6 +63,3 @@ python evaluate_heuristic_algo.py --scenario Trans --goal LO
 python evaluate_heuristic_algo.py --scenario Trans --goal EE
 ```
 
-### Related publication
-If you are interested in this work, please cite the paper
-
